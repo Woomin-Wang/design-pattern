@@ -9,7 +9,7 @@
 <img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/3a27f09c-de65-4d38-8ca5-0691831f628e" />
 
 **추가 참고 자료**
-- [디자인 패턴들](https://refactoring.guru/ko/design-patterns)
+- [Refactoring Guru](https://refactoring.guru/ko/design-patterns)
 
 <br>
 <br>

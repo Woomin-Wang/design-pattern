@@ -14,3 +14,4 @@
 <br>
 
 ## Learning Content
+- [Strategy](https://familiar-dragon-4ed.notion.site/27ebf88cd0f5806ea853e8390d4f9f8d?source=copy_link)

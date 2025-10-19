@@ -15,3 +15,5 @@
 
 ## Learning Content
 - [Strategy](https://familiar-dragon-4ed.notion.site/27ebf88cd0f5806ea853e8390d4f9f8d?source=copy_link)
+- [Singleton](https://familiar-dragon-4ed.notion.site/Singleton-272bf88cd0f580bead3affdcf583cbac?source=copy_link)
+- [Factory Method](https://familiar-dragon-4ed.notion.site/Factory-Method-28fbf88cd0f580d1a070dabdf691c36e?source=copy_link)

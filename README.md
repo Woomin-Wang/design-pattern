@@ -14,7 +14,8 @@
 <br>
 
 ## Learning Content
-- [Strategy](https://familiar-dragon-4ed.notion.site/27ebf88cd0f5806ea853e8390d4f9f8d?source=copy_link)
-- [Singleton](https://familiar-dragon-4ed.notion.site/Singleton-272bf88cd0f580bead3affdcf583cbac?source=copy_link)
-- [Factory Method](https://familiar-dragon-4ed.notion.site/Factory-Method-28fbf88cd0f580d1a070dabdf691c36e?source=copy_link)
-- [Abstract Factory](https://familiar-dragon-4ed.notion.site/Abstract-Factory-293bf88cd0f5801c98cfc7e0f25b0eca?source=copy_link)
+- [전략 (Strategy)](https://familiar-dragon-4ed.notion.site/Strategy-27ebf88cd0f5806ea853e8390d4f9f8d)
+- [싱글톤 (Singleton)](https://familiar-dragon-4ed.notion.site/Singleton-272bf88cd0f580bead3affdcf583cbac?source=copy_link)
+- [팩토리 메서드 (Factory Method)](https://familiar-dragon-4ed.notion.site/Factory-Method-28fbf88cd0f580d1a070dabdf691c36e?source=copy_link)
+- [추상 팩토리 (Abstract Factory)](https://familiar-dragon-4ed.notion.site/Abstract-Factory-293bf88cd0f5801c98cfc7e0f25b0eca?source=copy_link)
+- [데코레이터 (Decorator)](https://familiar-dragon-4ed.notion.site/Decorator-29dbf88cd0f580978300e6e5de6c2751?source=copy_link)
